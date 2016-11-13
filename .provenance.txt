@@ -1,0 +1,7 @@
+# generator info
+
+# parameter values
+package_name: com.puff1
+project_name: puff1
+project_description: puff1
+
